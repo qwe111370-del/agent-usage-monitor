@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 每台電腦自己的設定
+config.json
+ui_settings.json
+ui_settings.json.*.tmp
+
+# 參考用的第三方原始碼副本與派工單，不進版本庫（來源見 THIRD_PARTY_NOTICES.md）
+vendor-ref/
+research/
+specs/task-*.md
