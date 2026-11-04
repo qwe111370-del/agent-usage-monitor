@@ -175,4 +175,8 @@ specs/SPEC.md         規格
    - agy：依規格寫黑箱測試，10 分鐘。
 5. **Claude**：審查程式碼，用真實資料驗證三家數字、檢查輸出沒有憑證，微調畫面。
 
-授權：額度查詢與憑證解密的做法參考 CodeZeno/Claude-Code-Usage-Monitor（MIT），詳見 `THIRD_PARTY_NOTICES.md`。
+## 授權
+
+本專案採 MIT 授權，全文見 `LICENSE`。
+
+額度查詢與憑證解密的做法參考 CodeZeno/Claude-Code-Usage-Monitor（MIT），詳見 `THIRD_PARTY_NOTICES.md`。
